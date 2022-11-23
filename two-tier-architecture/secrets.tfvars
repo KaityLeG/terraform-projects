@@ -1,2 +1,2 @@
-db_username = "admin"
-db_password = "Happy12345!"
+db_username = "xxxxx"
+db_password = "xxxxxxxxxxx"
